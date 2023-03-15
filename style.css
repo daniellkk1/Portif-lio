@@ -121,6 +121,23 @@ li:hover{
     width: 80%;
 }
 
+.btnlinkedin {
+    padding: 10px;
+    font-size: 17px;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 500;
+    color: #FFF;
+    background-color: #4070fb;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: .5s;
+}
+
+.btnlinkedin:hover{
+    color: black;
+}
+
 .divider{
     width: 100%;
     border-top: .5px solid white;
@@ -144,3 +161,25 @@ li:hover{
     font-family: 'Oswald', sans-serif;
 }
 
+.projects-container{
+    background-color: #243821;
+    height: 100vh;
+}
+
+.card-1{
+    height: 300px;
+    width: 300px;
+    background-color: green;
+}
+
+.card-2{
+    height: 300px;
+    width: 300px;
+    background-color: green;
+}
+
+.card-3{
+    height: 300px;
+    width: 300px;
+    background-color: green;
+}
